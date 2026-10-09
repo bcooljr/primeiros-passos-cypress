@@ -6,5 +6,16 @@
     "userFail": {
       "username": "Test",
       "password": "test"
+    }, 
+    "userInfo": {
+      "firstName": "Teste",
+      "lastName": "Teste",
+      "employeeId": "123456",
+      "otherId": "654321",
+      "licenseNumber": "123456789",
+      "licenseExpiryDate": "2024-31-12",
+      "birthData": "1990-01-01"
+
     }
   }
+    
